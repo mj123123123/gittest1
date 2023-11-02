@@ -10,6 +10,7 @@
 <title>깃 테스트 http://localhost:9091/index.jsp</title>
 </head>
 <body>
+<<<<<<< HEAD
   <div style="margin: 50px;">
       <h1>깃 테스트</h1>
       <ol>
@@ -18,5 +19,16 @@
           <li>두번째 변경 진행함.</li>
       </ol>
   </div> 
+=======
+  <DIV style="margin: 50px;">
+      <H1>깃 테스트</H1>
+      <OL>
+        <LI>연어초밥</LI>
+        <LI>이효진</LI>
+        <LI>Ka yj</LI>   
+        <LI>전유빈</LI> 
+      </OL>
+  </DIV> 
+>>>>>>> 2f8a619ff3be905c744c20b31541274f3ef88888
 </body>
 </html>
