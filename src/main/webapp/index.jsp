@@ -13,7 +13,9 @@
   <DIV style="margin: 50px;">
       <H1>깃 테스트</H1>
       <OL>
-          <LI>Ka yj</LI>     
+        <LI>연어초밥</LI>
+        <LI>이효진</LI>
+        <LI>Ka yj</LI>     
       </OL>
   </DIV> 
 </body>
