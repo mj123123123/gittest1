@@ -15,7 +15,8 @@
       <OL>
         <LI>연어초밥</LI>
         <LI>이효진</LI>
-        <LI>Ka yj</LI>     
+        <LI>Ka yj</LI>
+        <LI>The</LI>     
       </OL>
   </DIV> 
 </body>
