@@ -27,6 +27,7 @@
         <LI>이효진</LI>
         <LI>Ka yj</LI>   
         <LI>전유빈</LI> 
+        <LI>변현수</LI> 
       </OL>
   </DIV> 
 >>>>>>> 2f8a619ff3be905c744c20b31541274f3ef88888
