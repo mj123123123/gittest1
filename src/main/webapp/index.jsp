@@ -14,7 +14,7 @@
       <H1>깃 테스트</H1>
       <OL>
           <LI>Ka yj</LI>     
-      </OL>      
+      </OL>
   </DIV> 
 </body>
 </html>
