@@ -13,7 +13,11 @@
   <DIV style="margin: 50px;">
       <H1>깃 테스트</H1>
       <OL>
+<<<<<<< HEAD
           <LI>이효진</LI>
+=======
+          <LI>연어초밥</LI>
+>>>>>>> 8fe73ea4563f79a0a55397c44c340eb08dc209df
       </OL>
   </DIV> 
 </body>
