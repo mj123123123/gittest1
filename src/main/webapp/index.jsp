@@ -10,13 +10,13 @@
 <title>깃 테스트 http://localhost:9091/index.jsp</title>
 </head>
 <body>
-  <DIV style="margin: 50px;">
-      <H1>깃 테스트</H1>
-      <OL>
-          <LI>첫번째 변경 진행함.</LI>
-          <LI>첫번째 변경 후 add, commit 진행, push 안함.</LI>
-          <LI>두번째 변경 진행함.</LI>
-      </OL>
-  </DIV> 
+  <div style="margin: 50px;">
+      <h1>깃 테스트</h1>
+      <ol>
+          <li>첫번째 변경 진행함.</li>
+          <li>첫번째 변경 후 add, commit 진행, push 안함.</li>
+          <li>두번째 변경 진행함.</li>
+      </ol>
+  </div> 
 </body>
 </html>
