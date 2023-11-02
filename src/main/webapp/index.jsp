@@ -16,7 +16,7 @@
         <LI>연어초밥</LI>
         <LI>이효진</LI>
         <LI>Ka yj</LI>
-        <LI>the</LI>     
+        <LI>One</LI>     
       </OL>
   </DIV> 
 </body>
