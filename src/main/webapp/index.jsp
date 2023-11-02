@@ -13,10 +13,13 @@
   <DIV style="margin: 50px;">
       <H1>깃 테스트</H1>
       <OL>
+<<<<<<< HEAD
+          <LI> 전유빈 </LI>
+=======
         <LI>연어초밥</LI>
         <LI>이효진</LI>
-        <LI>Ka yj</LI>
-        <LI>전유빈</LI>     
+        <LI>Ka yj</LI>    
+>>>>>>> b757b36ca7b0d84d9068e8ca17a96e1cb7e2dfeb
       </OL>
   </DIV> 
 </body>
